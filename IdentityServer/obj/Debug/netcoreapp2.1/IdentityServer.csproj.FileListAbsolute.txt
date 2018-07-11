@@ -1,0 +1,14 @@
+c:\development\CustomAuthorization\IdentityServer\bin\Debug\netcoreapp2.1\IdentityServer.deps.json
+c:\development\CustomAuthorization\IdentityServer\bin\Debug\netcoreapp2.1\IdentityServer.runtimeconfig.json
+c:\development\CustomAuthorization\IdentityServer\bin\Debug\netcoreapp2.1\IdentityServer.runtimeconfig.dev.json
+c:\development\CustomAuthorization\IdentityServer\bin\Debug\netcoreapp2.1\IdentityServer.dll
+c:\development\CustomAuthorization\IdentityServer\bin\Debug\netcoreapp2.1\IdentityServer.pdb
+c:\development\CustomAuthorization\IdentityServer\obj\Debug\netcoreapp2.1\IdentityServer.csprojAssemblyReference.cache
+c:\development\CustomAuthorization\IdentityServer\obj\Debug\netcoreapp2.1\IdentityServer.csproj.CoreCompileInputs.cache
+c:\development\CustomAuthorization\IdentityServer\obj\Debug\netcoreapp2.1\IdentityServer.RazorAssemblyInfo.cache
+c:\development\CustomAuthorization\IdentityServer\obj\Debug\netcoreapp2.1\IdentityServer.RazorAssemblyInfo.cs
+c:\development\CustomAuthorization\IdentityServer\obj\Debug\netcoreapp2.1\IdentityServer.AssemblyInfoInputs.cache
+c:\development\CustomAuthorization\IdentityServer\obj\Debug\netcoreapp2.1\IdentityServer.AssemblyInfo.cs
+c:\development\CustomAuthorization\IdentityServer\obj\Debug\netcoreapp2.1\IdentityServer.RazorTargetAssemblyInfo.cache
+c:\development\CustomAuthorization\IdentityServer\obj\Debug\netcoreapp2.1\IdentityServer.dll
+c:\development\CustomAuthorization\IdentityServer\obj\Debug\netcoreapp2.1\IdentityServer.pdb
